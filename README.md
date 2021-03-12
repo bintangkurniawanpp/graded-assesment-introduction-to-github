@@ -1,2 +1,2 @@
 # graded-assesment-introduction-to-github
-Qwiklab Assesment for Introduction to Git and Github week 3
+I am editing the README file. Adding some more details about the project description.
